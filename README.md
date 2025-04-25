@@ -1,3 +1,3 @@
 # Кирсанов Платон Владимирович
 *25.04.2025*
-<img src='btr.jpg'>
+![BATRUDINOV!](btr.jpg "Batrudinov")
